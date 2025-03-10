@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JCON0 AKA Jenson. 
 - 👀 I’m a second year computer science student who is interested in pursuing a career in software engineering.
-- 🌱 Currently studying Intelligent Systems, Project Management and Computer Networks, Security & Operating Systems.
+- 🌱 Currently studying data security and governance, cloud computing and working on my final project.
 - 💞️ I’m looking to collaborate on anything that will aid my progression into the software engineering industry.
 - 📫 Connect with me on LinkedIn at www.linkedin.com/in/jenson-connor-a11b44163
 - 😄 Pronouns: He/Him.
