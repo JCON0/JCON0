@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JCON0 AKA Jenson. 
-- 👀 I’m a second year computer science student who is interested in pursuing a career in software engineering.
-- 🌱 Currently studying data security and governance, cloud computing and working on my final project.
+- 👀 I’m a First Class computer science BSc graduate who is interested in pursuing a career in software engineering.
 - 💞️ I’m looking to collaborate on anything that will aid my progression into the software engineering industry.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I have a diploma in photography & Sports Science!
